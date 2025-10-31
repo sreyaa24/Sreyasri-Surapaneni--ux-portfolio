@@ -19,3 +19,5 @@ It provides users with personalized medication recommendations, dosage schedules
 - Developed a functional prototype demonstrating AI-powered medication recommendations and real-time reminders  
 - Improved user clarity and engagement by 30% through iterative usability testing  
 - Presented live demo showcasing full app functionality and design flow  
+
+[https://www.figma.com/design/W5Zh3t82aHEwZ4FFVtDNph/Untitled?node-id=0-1&p=f&t=5E41EFIiTCZrmQmn-0] (figma link)
